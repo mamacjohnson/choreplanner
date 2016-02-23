@@ -1,1 +1,2 @@
 # choreplanner
+The chore planner is going to be a complex, yet easy to use, app to track, assign and manager chores.  The user will be able to either create their own list of chores or use chores from a pre-designed list. The chore app will also track progress as chores are completed. For example, it will assign a percentage value to each chore completed in a category, so that the user will feel like something was accomplished - even if the whole category wasn't completed. 
